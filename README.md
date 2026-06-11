@@ -4,14 +4,14 @@ Automatic backups of X-Scraper database
 
 | Date | Records | Size | File |
 |------|---------|------|------|
-| data_backup_20260610_031503.zip | 1294 | 5.4M | [data_backup_20260610_031503.zip](backups/data_backup_20260610_031503.zip) |
-| data_backup_20260607_031614.zip | 1294 | 5.4M | [data_backup_20260607_031614.zip](backups/data_backup_20260607_031614.zip) |
+| data_backup_20260611_031344.zip | 1294 | 5.4M | [data_backup_20260611_031344.zip](backups/data_backup_20260611_031344.zip) |
 | data_backup_20260608_031755.zip | 1294 | 5.4M | [data_backup_20260608_031755.zip](backups/data_backup_20260608_031755.zip) |
 | data_backup_20260609_031514.zip | 1294 | 5.4M | [data_backup_20260609_031514.zip](backups/data_backup_20260609_031514.zip) |
-| data_backup_20260605_031628.zip | 1294 | 5.4M | [data_backup_20260605_031628.zip](backups/data_backup_20260605_031628.zip) |
+| data_backup_20260610_031503.zip | 1294 | 5.4M | [data_backup_20260610_031503.zip](backups/data_backup_20260610_031503.zip) |
 | data_backup_20260606_031321.zip | 1294 | 5.4M | [data_backup_20260606_031321.zip](backups/data_backup_20260606_031321.zip) |
-| data_backup_20260603_031729.zip | 1294 | 5.4M | [data_backup_20260603_031729.zip](backups/data_backup_20260603_031729.zip) |
+| data_backup_20260607_031614.zip | 1294 | 5.4M | [data_backup_20260607_031614.zip](backups/data_backup_20260607_031614.zip) |
 | data_backup_20260604_031718.zip | 1294 | 5.4M | [data_backup_20260604_031718.zip](backups/data_backup_20260604_031718.zip) |
+| data_backup_20260605_031628.zip | 1294 | 5.4M | [data_backup_20260605_031628.zip](backups/data_backup_20260605_031628.zip) |
 | data_backup_20260601_031803.zip | 1294 | 5.4M | [data_backup_20260601_031803.zip](backups/data_backup_20260601_031803.zip) |
 | data_backup_20260602_031749.zip | 1294 | 5.4M | [data_backup_20260602_031749.zip](backups/data_backup_20260602_031749.zip) |
-| data_backup_20260529_031556.zip | 1294 | 5.4M | [data_backup_20260529_031556.zip](backups/data_backup_20260529_031556.zip) |
+| data_backup_20260603_031729.zip | 1294 | 5.4M | [data_backup_20260603_031729.zip](backups/data_backup_20260603_031729.zip) |
