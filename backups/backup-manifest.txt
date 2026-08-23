@@ -1,11 +1,11 @@
 X-Scraper Database Backup
 ==========================
-Backup Date: 2026-08-22 02:26:32 UTC
-Backup File: data_backup_20260822_022632.zip
+Backup Date: 2026-08-23 02:32:11 UTC
+Backup File: data_backup_20260823_023211.zip
 Records: 1294
 File Size: 5.4M
 Source: jsjsjs333/x-scraper
-Workflow: https://github.com/jsjsjs333/x-scraper/actions/runs/32546231235
+Workflow: https://github.com/jsjsjs333/x-scraper/actions/runs/32613078696
 
 To decrypt:
-unzip -p YOUR_PASSWORD data_backup_20260822_022632.zip
+unzip -p YOUR_PASSWORD data_backup_20260823_023211.zip
